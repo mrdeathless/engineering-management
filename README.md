@@ -391,7 +391,7 @@ Some great examples of presentations:
 
 ## Problem solving
 
-See my [engineering-management section about problem solving](https://github.com/charlax/professional-programming#problem-solving)
+See my [professional-programming section about problem solving](https://github.com/charlax/professional-programming#problem-solving)
 
 ## Processes for engineering
 
